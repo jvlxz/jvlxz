@@ -1,18 +1,11 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/ab9d3b78c3b3bc494c601e9b894ba55b801c1e5d30739f059fee29ee333beaf0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35342f65332f37642f35346533376438303734656263646531643936633737643762326137663331302e676966"  />
-</div>
-
 ###
 
+<h1 align="center">hey  👋</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/jules-dutel/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">hey  👋</h1>
 
 ###
 
