@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Jules from Lyon, France<br><br>- 📚 I'm currently studying at @epitech</p>
+<p align="left">I'm Jules from Paris, France<br><br>- 📚 I'm currently studying at @epitech</p>
 
 ###
 
