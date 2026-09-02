@@ -4,7 +4,7 @@
        <br />
         I work between development, operations, and AI. 
        <br />
-       Currently at <a href="https://github.com/numberly)">numberly</a>.
+       Currently at <a href="https://github.com/numberly)">numberly</a>
      </samp>
    </p>
 
