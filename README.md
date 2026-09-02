@@ -1,11 +1,15 @@
 <p align="center">
-  <samp>
-      between dev and ops, self-hosting what I can, automating what I can't
-  </samp>
-</p>
+     <samp>
+       Hi, I’m Jules.
+       <br />
+        I work between development, operations, and AI. 
+       <br />
+       Currently at <a href="https://github.com/numberly)">numberly</a>.
+     </samp>
+   </p>
 
-<p align="center">
-  <samp>
-    <a href="https://www.linkedin.com/in/jules-dutel/">linkedin</a>
-  </samp>
-</p>
+   <p align="center">
+     <samp>
+       <a href="https://www.linkedin.com/in/jules-dutel/">linkedin</a>
+     </samp>
+   </p>
